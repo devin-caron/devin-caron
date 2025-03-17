@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋 Hi, I'm Devin!
 👨‍💻I'm a software engineer living in Los Angeles<br>📖I studied software engineering at Conestoga College<br>💭Currently advancing my knowledge in C# and Python
 
 
