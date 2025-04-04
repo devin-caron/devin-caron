@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Devin!
 👨‍💻I'm a software engineer living in Los Angeles<br>
 📖I studied Software Engineering Technology at Conestoga College<br>
-💭Currently advancing my knowledge in C# and Python
+💭Currently advancing my knowledge in ASP.NET Core and Python
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
