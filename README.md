@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Devin!
 👨‍💻I'm a software engineer living in Los Angeles<br>
 📖I studied Software Engineering Technology at Conestoga College<br>
-💭Currently advancing my knowledge in ASP.NET Core and Python
+💭Currently advancing my knowledge in ASP.NET Core
 
 
 # 💻 Tech Stack:
