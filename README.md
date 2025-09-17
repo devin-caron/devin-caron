@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Devin!
-I'm a software engineer living in California<br>
+I'm a software developer living in California<br>
 I studied Software Engineering Technology at Conestoga College<br>
 Currently advancing my knowledge in ASP.NET Core APIs
 
