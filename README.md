@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Devin!
 I'm a software developer living in California<br>
 I studied Software Engineering Technology at Conestoga College<br>
-Currently advancing my knowledge in ASP.NET Core APIs
+Currently advancing my knowledge in Spring Boot
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
